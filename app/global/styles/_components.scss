@@ -1,0 +1,23 @@
+// Components
+// ==========
+
+// Vendor Components
+// -----------------
+//
+// Styles for external components used on the project.
+// These can include our Mobify modules, Stencil components,
+// and non-Mobify components.
+//
+// eg. @import 'components/vendor/scooch';
+@import 'bower_components/pinny/src/style/pinny';
+
+
+// Project Components
+// ------------------
+//
+// Styles for project-specific components.
+//
+// eg. @import 'components/button';
+
+@import 'components/card/style';
+@import 'components/search-pinny/style';

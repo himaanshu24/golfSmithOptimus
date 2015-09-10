@@ -1,0 +1,19 @@
+{#header}
+    <header class="t-header" role="banner">
+        <div class="c-header-left-links">
+            <span class="c-hamburger icon-Search">Menu</span>
+            <span class="c-store-link">Store</span>
+        </div>
+
+        <a href="/" class="c-logo">Logo</a>
+
+        <div class="c-header-right-links">
+            <span class="c-search-link">Search</span>
+            <a href="{cartLink}" class="c-cart-link">Cart</a>
+        </div>
+
+        <div class="c-search-pinny" hidden>
+            {searchForm}
+        </div>
+    </header>
+{/header}

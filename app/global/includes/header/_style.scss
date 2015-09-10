@@ -1,0 +1,24 @@
+.t-header {
+    text-align: center;
+    
+    .c-header-left-links {
+        float: left;
+        margin-left: 20px;
+        padding: 15px 0;
+        text-align: left;
+        width: 80px;
+    }
+
+    .c-logo {
+        display: inline-block;
+        width: 65px;
+        padding: 12px 0;
+    }
+
+    .c-header-right-links {
+        float: right;
+        padding: 15px 0;
+        width: 120px;
+    }
+
+}

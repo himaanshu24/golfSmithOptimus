@@ -1,0 +1,22 @@
+.c-search-pinny {
+    bottom: auto!important;
+    position: relative;
+}
+
+#site_search {
+    border: 0;
+    border-radius: 0;
+    color: #333;
+    display: block;
+    font-size: 16px;
+    height: 60px;
+    padding: 0 56px;
+    width: 100%;
+}
+
+.c-search-pinny .pinny__close {
+    height: 58px;
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
